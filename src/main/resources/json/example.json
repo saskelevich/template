@@ -1,0 +1,19 @@
+{
+  "name": "Ben Watson",
+  "age": 31,
+  "isMarried": true,
+  "hobbies": [
+    "Footbal",
+    "Swimming"
+  ],
+  "kids": [
+    {
+      "name": "Billy",
+      "age": 4
+    },
+    {
+      "name": "Milly",
+      "age": 3
+    }
+  ]
+}
